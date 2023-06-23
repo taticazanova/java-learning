@@ -1,4 +1,10 @@
-class Program {
+/*
+* ---- @author Tati Cazanova
+* ---- Created in June 2023
+* ---- Keywords: variables, values, reference, primitive types, comparing operator, if condition
+*/
+
+class Program0 {
 	
 	public static void main(String[]args) {
 	
